@@ -35635,6 +35635,49 @@
       "actionid": 4404,
       "actioncode": "",
       "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4410,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4411,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4412,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4413,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 4411,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 4412,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 4413,
+      "actioncode": "",
+      "tenantId": "pg"
     }
+
   ]
 }
