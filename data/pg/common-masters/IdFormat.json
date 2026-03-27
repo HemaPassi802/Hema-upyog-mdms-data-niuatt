@@ -817,6 +817,10 @@
         {
             "format": "CH/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CH_RECEIPT_ID_[TENANT_ID]]",
             "idname": "challan_generation.receipt.id"
+        },
+        {
+            "format": "NDC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_NDC_RECEIPT_ID_[TENANT_ID]]",
+            "idname": "ndc.receipt.id"
         }
     ]
 }
