@@ -1890,7 +1890,15 @@
      "service": "est-services",
      "code": "EST10YRS2024",
      "financialYear": "2025-35"
-   }
+   },
+   {
+      "fromDate": 1743465600000,
+      "toDate": 1775001599000,
+      "periodCycle": "ANNUAL",
+      "service": "Challan_Generation",
+      "code": "FY2025-26",
+      "financialYear": "2025-35"
+    }
 
   ]
 }
