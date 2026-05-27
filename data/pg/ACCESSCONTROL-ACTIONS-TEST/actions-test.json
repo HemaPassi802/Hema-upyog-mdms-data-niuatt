@@ -26622,6 +26622,43 @@
       "serviceCode": "COLLECTION",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 4421,
+      "name": "GC_NEW_REGISTRATION",
+      "url": "digit-ui-card",
+      "displayName": "New Registration",
+      "orderNumber": 1,
+      "parentModule": "GC",
+      "enabled": true,
+      "serviceCode": "GC",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/gc/new-registration",
+      "leftIcon": "CHBIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/gc-home"
+    },
+    {
+      "id": 4422,
+      "name": "GC_MY_APPLICATION_HEADER",
+      "url": "digit-ui-card",
+      "displayName": "My Applications",
+      "orderNumber": 2,
+      "parentModule": "GC",
+      "enabled": true,
+      "serviceCode": "GC",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/gc/my-applications",
+      "leftIcon": "CHBIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/gc-home"
     }
+
   ]
 }
