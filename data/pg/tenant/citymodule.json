@@ -1221,8 +1221,8 @@
       ]
     },
     {
-      "module": "GB",
-      "code": "GB",
+      "module": "GC",
+      "code": "GC",
       "active": true,
       "order":1,
       "tenants": [
