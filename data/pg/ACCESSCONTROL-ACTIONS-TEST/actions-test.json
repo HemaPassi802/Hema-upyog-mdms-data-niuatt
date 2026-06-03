@@ -26710,7 +26710,66 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+         "id": 4427,
+         "name": "Create Budget Register",
+         "navigationURL": "services/EGF/budget/register/new",
+         "url": "services/EGF/budget/register/new",
+         "parentModule": "EGF",
+         "displayName": "Create Budget Register",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "budget",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Budget.Budget Register.Create Budget Register"
+      },
+      {
+         "id": 4428,
+         "name": "View Budget Register",
+         "navigationURL": "services/EGF/budget/register/view",
+         "url": "services/EGF/budget/register/view",
+         "parentModule": "EGF",
+         "displayName": "View Budget Register",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "budget",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Budget.Budget Register.View Budget Register"
+      },
+      {
+         "id": 4429,
+         "name": "Budget Head",
+         "navigationURL": "services/EGF/budgethead/view",
+         "url": "services/EGF/budgethead/view",
+         "parentModule": "EGF",
+         "displayName": "Budget Head",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "budget",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Budget.Budget Head",
+         "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
+      },
+      {
+         "id": 4430,
+         "name": "Function Wise Budget Head",
+         "navigationURL": "services/EGF/budgethead/function-wise-view",
+         "url": "services/EGF/budgethead/function-wise-view",
+         "parentModule": "EGF",
+         "displayName": "Function Wise Budget Head",
+         "orderNumber": 3,
+         "enabled": true,
+         "serviceCode": "budget",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Budget.Function Wise Budget Head",
+         "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
+      }
+
 
   ]
 }
