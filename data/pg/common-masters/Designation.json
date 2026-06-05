@@ -185,7 +185,19 @@
     {
       "name": "Executive Officer",
       "description": "Executive Officer",
-      "code": "DESIG_EO",
+      "code": "EO",
+      "active": true
+    },
+    {
+      "name": "Financial Management Officer",
+      "description": "Financial Management Officer",
+      "code": "FMO",
+      "active": true
+    },
+    {
+      "name": "DMA",
+      "description": "Directorate of Municipal Administration",
+      "code": "DMA",
       "active": true
     }
   ]
