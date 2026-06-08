@@ -93,6 +93,26 @@
           }
         ],
         "description": "APPLICANT.ADDRESSPROOF_DESCRIPTION"
+      },
+      {
+        "code": "APPLICANT.DEATHCERTIFICATE",
+        "documentType": "APPLICANT.DEATHCERTIFICATE",
+        "required": true,
+        "active": true,
+        "hasDropdown": false,
+        "additionalDetails": {
+          "enabledActions": {
+            "update": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "create": {
+              "disableUpload": false,
+              "disableDropdown": false
+            }
+          }
+        },
+        "description": "APPLICANT.DEATHCERTIFICATE_DESCRIPTION"
       }
     ]
   }
