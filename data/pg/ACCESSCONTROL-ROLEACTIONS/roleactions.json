@@ -36361,6 +36361,24 @@
       "actionid": 1752,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_VERIFIER",
+      "actionid": 4433,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_APPROVER",
+      "actionid": 4433,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4433,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
