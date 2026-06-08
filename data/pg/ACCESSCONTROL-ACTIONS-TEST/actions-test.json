@@ -26768,6 +26768,19 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/pt-home"
+    },
+     {
+      "id": 4433,
+      "name": "Search Garbage Accounts",
+      "url": "/garbage-service/garbage-accounts/_create",
+      "displayName": "Search Garbage Accounts",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
 
   ]
