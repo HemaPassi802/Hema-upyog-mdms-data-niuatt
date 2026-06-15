@@ -5984,7 +5984,7 @@
       "name": "Penalty",
       "code": "EST_PENALTY_FEE",
       "isDebit": false,
-      "isActualDemand": true,
+      "isActualDemand": false,
       "order": "1",
       "isRequired": false
     },
