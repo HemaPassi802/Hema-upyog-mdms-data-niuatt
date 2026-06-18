@@ -1,0 +1,18 @@
+{
+  "tenantId": "pg.mohali",
+  "moduleName": "CHB",
+  "CrematoriumCode": [
+    {
+      "crematoriumId": "1",
+      "codeId": "1",
+      "code": "Crematorium Code-3001",
+      "capacity": "2",
+      "timeSlots": [
+        { "id": "1", "from": "06:00", "duration": "04:00" },
+        { "id": "2", "from": "11:00", "duration": "04:00" },
+        { "id": "3", "from": "16:00", "duration": "04:00" }
+      ],
+      "active": true
+    }
+  ]
+}

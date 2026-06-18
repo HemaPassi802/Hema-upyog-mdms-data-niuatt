@@ -1,0 +1,20 @@
+{
+  "tenantId": "pg.mohali",
+  "moduleName": "CHB",
+  "ParkCode": [
+    {
+      "parkId": "1",
+      "codeId": "1",
+      "code": "Park Code-2001",
+      "capacity": "500",
+      "active": true
+    },
+    {
+      "parkId": "2",
+      "codeId": "2",
+      "code": "Park Code-2002",
+      "capacity": "300",
+      "active": true
+    }
+  ]
+}

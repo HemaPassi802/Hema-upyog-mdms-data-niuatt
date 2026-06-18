@@ -1,0 +1,30 @@
+{
+  "tenantId": "pg.mohali",
+  "moduleName": "CHB",
+  "Parks": [
+    {
+      "parkId": "1",
+      "name": "Central Park",
+      "code": "CENTRAL_PARK",
+      "geoLocation": "28.5934095,77.1195994",
+      "address": "Sadar Bazar, Delhi Cantt",
+      "contactDetails": "011-25690001",
+      "type": "PARK",
+      "parkDescription": "Large public park with children's play area, jogging track and landscaped lawns.",
+      "facilities": ["Playground", "Walking Track", "Public Toilets", "Benches", "Lighting"],
+      "active": true
+    },
+    {
+      "parkId": "2",
+      "name": "Dussehra Park",
+      "code": "DUSSEHRA_PARK",
+      "geoLocation": "28.5926723,77.1196247",
+      "address": "Near Dussehra Ground, Sadar Bazar",
+      "contactDetails": "011-25690002",
+      "type": "PARK",
+      "parkDescription": "Open green space used for leisure, small events and morning exercises.",
+      "facilities": ["Open Lawn", "Walking Track", "Lighting"],
+      "active": true
+    }
+  ]
+}

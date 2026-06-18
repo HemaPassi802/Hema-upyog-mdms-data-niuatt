@@ -1,0 +1,20 @@
+{
+  "tenantId": "pg.mohali",
+  "moduleName": "CHB",
+  "StadiumCode": [
+    {
+      "stadiumId": "1",
+      "codeId": "1",
+      "code": "Stadium Code-4001",
+      "capacity": "5000",
+      "active": true
+    },
+    {
+      "stadiumId": "2",
+      "codeId": "2",
+      "code": "Stadium Code-4002",
+      "capacity": "1500",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "tenantId": "pg.mohali",
+  "moduleName": "CHB",
+  "Stadiums": [
+    {
+      "stadiumId": "1",
+      "name": "District Sports Stadium",
+      "code": "DISTRICT_SPORTS_STADIUM",
+      "geoLocation": "28.596320,77.121770",
+      "address": "Sadar Bazar, Delhi Cantt",
+      "contactDetails": "011-25692001",
+      "type": "STADIUM",
+      "capacity": 5000,
+      "sportsAvailable": ["Cricket", "Football", "Athletics"],
+      "facilities": ["Seating", "Floodlights", "Changing Rooms", "Parking"],
+      "active": true
+    },
+    {
+      "stadiumId": "2",
+      "name": "DAV Sports Ground",
+      "code": "DAV_SPORTS_GROUND",
+      "geoLocation": "28.595000,77.122000",
+      "address": "Near DAV School",
+      "contactDetails": "011-25692002",
+      "type": "STADIUM",
+      "capacity": 1500,
+      "sportsAvailable": ["Football", "Kabaddi"],
+      "facilities": ["Open Ground", "Seating", "Toilets"],
+      "active": true
+    }
+  ]
+}
