@@ -3,18 +3,31 @@
   "moduleName": "CHB",
   "ParkCode": [
     {
-      "parkId": "1",
+      "venueId": "1",
       "codeId": "1",
-      "code": "Park Code-2001",
+      "code": "Park Section-2001",
       "capacity": "500",
-      "active": true
+      "active": true,
+      "venueCode": "CENTRAL_PARK",
+      "venueType":"PARK"
     },
     {
-      "parkId": "2",
+      "venued": "1",
       "codeId": "2",
-      "code": "Park Code-2002",
+      "code": "Park Section-2002",
       "capacity": "300",
-      "active": true
+      "active": true,
+      "venueCode": "CENTRAL_PARK",
+      "venueType":"PARK"
+    },
+    {
+      "venueId": "2",
+      "codeId": "2",
+      "code": "Park Section-2001",
+      "capacity": "300",
+      "active": true,
+      "venueCode": "DUSSEHRA_PARK",
+      "venueType": "PARK"
     }
   ]
 }
