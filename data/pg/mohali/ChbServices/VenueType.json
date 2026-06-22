@@ -5,9 +5,9 @@
         {
             "name": "Park",
             "active": true,
-            "venueType": "PARK",
-            "code": "PARK",
-            "timeSlot":{
+            "parentMasterType": "Parks",
+            "code": "PARKS",
+            "timeSlot": {
                 "maxDuration": "6:00",
                 "minDuration": "1:00"
             }
@@ -15,9 +15,9 @@
         {
             "name": "Stadium",
             "active": true,
-            "venueType": "STADIUM",
-            "code": "STADIUM",
-            "timeSlot":{
+            "parentMasterType": "Stadiums",
+            "code": "STADIUMS",
+            "timeSlot": {
                 "maxDuration": "6:00",
                 "minDuration": "1:00"
             }
@@ -25,9 +25,9 @@
         {
             "name": "Community Hall",
             "active": true,
-            "venueType": "COMMUNITY_HALL",
-            "code": "COMMUNITY_HALL",
-            "timeSlot":{
+            "parentMasterType": "CommunityHalls",
+            "code": "COMMUNITY_HALLS",
+            "timeSlot": {
                 "maxDuration": "23:59",
                 "minDuration": "1:00"
             }
@@ -35,9 +35,9 @@
         {
             "name": "Guest House",
             "active": true,
-            "venueType": "GUEST_HOUSE",
+            "parentMasterType": "GuestHouses",
             "code": "GUEST_HOUSE",
-            "timeSlot":{
+            "timeSlot": {
                 "maxDuration": "4:00",
                 "minDuration": "1:00"
             }
@@ -45,10 +45,10 @@
         {
             "name": "Crematorium",
             "active": true,
-            "venueType": "CREMATORIUM",
+            "parentMasterType": "Crematoriums",
             "code": "CREMATORIUM",
-            "timeSlot":{
-                "maxDuration": "10:00",
+            "timeSlot": {
+                "maxDuration": "23:59",
                 "minDuration": "1:00"
             }
         }
