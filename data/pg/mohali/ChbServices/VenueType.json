@@ -3,52 +3,52 @@
     "moduleName": "CHB",
     "Venues": [
         {
-            "name": "Parks",
+            "name": "Park",
             "active": true,
-            "venueType": "PARKS",
+            "parentMasterType": "Parks",
             "code": "PARKS",
-            "timeSlot":{
+            "timeSlot": {
                 "maxDuration": "6:00",
                 "minDuration": "1:00"
             }
         },
         {
-            "name": "Stadiums",
+            "name": "Stadium",
             "active": true,
-            "venueType": "STADIUMS",
+            "parentMasterType": "Stadiums",
             "code": "STADIUMS",
-            "timeSlot":{
+            "timeSlot": {
                 "maxDuration": "6:00",
                 "minDuration": "1:00"
             }
         },
         {
-            "name": "CommunityHalls",
+            "name": "Community Hall",
             "active": true,
-            "venueType": "COMMUNITY_HALLS",
+            "parentMasterType": "CommunityHalls",
             "code": "COMMUNITY_HALLS",
-            "timeSlot":{
+            "timeSlot": {
                 "maxDuration": "23:59",
                 "minDuration": "1:00"
             }
         },
         {
-            "name": "GuestHouses",
+            "name": "Guest House",
             "active": true,
-            "venueType": "GUEST_HOUSE",
+            "parentMasterType": "GuestHouses",
             "code": "GUEST_HOUSE",
-            "timeSlot":{
+            "timeSlot": {
                 "maxDuration": "4:00",
                 "minDuration": "1:00"
             }
         },
         {
-            "name": "Crematoriums",
+            "name": "Crematorium",
             "active": true,
-            "venueType": "CREMATORIUM",
+            "parentMasterType": "Crematoriums",
             "code": "CREMATORIUM",
-            "timeSlot":{
-                "maxDuration": "10:00",
+            "timeSlot": {
+                "maxDuration": "23:59",
                 "minDuration": "1:00"
             }
         }

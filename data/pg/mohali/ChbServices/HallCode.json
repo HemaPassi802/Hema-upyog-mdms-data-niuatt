@@ -16,7 +16,6 @@
                 }
             ],
             "active": true,
-            "venuetype": "COMMUNITY_HALL",
             "venueCode": "Sector_54_Phase_2"
         },
         {
@@ -33,7 +32,6 @@
                 }
             ],
             "active": true,
-            "venuetype": "COMMUNITY_HALL",
             "venueCode": "Sector_55_Phase_1"
         },
         {
@@ -50,7 +48,6 @@
                 }
             ],
             "active": true,
-            "venuetype": "COMMUNITY_HALL",
             "venueCode": "Sector_59_Phase_5"
         },
         {
@@ -67,7 +64,6 @@
                 }
             ],
             "active": true,
-            "venuetype": "COMMUNITY_HALL",
             "venueCode": "Sector_61_Phase_7"
         },
         {
@@ -84,7 +80,6 @@
                 }
             ],
             "active": true,
-            "venuetype": "COMMUNITY_HALL",
             "venueCode": "Sector_65_Phase_11"
         },
         {
@@ -101,7 +96,6 @@
                 }
             ],
             "active": true,
-            "venuetype": "COMMUNITY_HALL",
             "venueCode": "Sector_69"
         },
         {
@@ -118,7 +112,6 @@
                 }
             ],
             "active": true,
-            "venuetype": "COMMUNITY_HALL",
             "venueCode": "Sector_70"
         },
         {
@@ -135,9 +128,7 @@
                 }
             ],
             "active": true,
-            "venuetype": "COMMUNITY_HALL",
             "venueCode": "Sector_71"
         }
     ]
 }
-

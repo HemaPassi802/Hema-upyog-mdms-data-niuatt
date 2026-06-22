@@ -5,32 +5,34 @@
     {
       "venueId": "1",
       "venueName": "District Sports Stadium",
-      "venueCode": "StadiumCode",
+      "code": "DISTRICT_SPORTS_STADIUM",
       "geoLocation": "28.596320,77.121770",
       "address": "Sadar Bazar, Delhi Cantt",
       "contactDetails": "011-25692001",
-      "venueType": "STADIUM",
+      "type": "STADIUM",
+      "capacity": 5000,
       "sportsAvailable": ["Cricket", "Football", "Athletics"],
       "facilities": ["Seating", "Floodlights", "Changing Rooms", "Parking"],
-      "venueDescription": "",
-      "termsAndCondition": "",
+      "venueDescription": "Stadium venue details are available for booking. Please refer to the admin for specific guidelines.",
+      "termsAndCondition": "Booking subject to availability and applicable stadium rules. No unauthorized activities permitted. Safety and conduct guidelines must be followed.",
       "active": true,
-      "code": "DISTRICT_SPORTS_STADIUM"
+      "childMasterCode": "StadiumCode"
     },
     {
       "venueId": "2",
       "venueName": "DAV Sports Ground",
-      "venueCode": "StadiumCode",
+      "code": "DAV_SPORTS_GROUND",
       "geoLocation": "28.595000,77.122000",
       "address": "Near DAV School",
       "contactDetails": "011-25692002",
-      "venueType": "STADIUM",
+      "type": "STADIUM",
+      "capacity": 1500,
       "sportsAvailable": ["Football", "Kabaddi"],
       "facilities": ["Open Ground", "Seating", "Toilets"],
-      "venueDescription": "",
-      "termsAndCondition": "",
+      "venueDescription": "Stadium venue details are available for booking. Please refer to the admin for specific guidelines.",
+      "termsAndCondition": "Booking subject to availability and applicable stadium rules. No unauthorized activities permitted. Safety and conduct guidelines must be followed.",
       "active": true,
-      "code": "DAV_SPORTS_GROUND"
+      "childMasterCode": "StadiumCode"
     }
   ]
 }
