@@ -32786,7 +32786,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-	 {
+    {
       "rolecode": "ASSET_APPROVER",
       "actionid": 3072,
       "actioncode": "",
@@ -32804,7 +32804,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-	{
+    {
       "rolecode": "ASSET_APPROVER",
       "actionid": 3075,
       "actioncode": "",
@@ -32822,19 +32822,19 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-	 {
-        "rolecode": "MDMS_ADMIN",
-        "actionid": 3078,
-        "actioncode": "",
-        "tenantId": "pg"
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "pg"
     },
-	 {
-        "rolecode": "MDMS_ADMIN",
-        "actionid": 3079,
-        "actioncode": "",
-        "tenantId": "pg"
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3079,
+      "actioncode": "",
+      "tenantId": "pg"
     },
-	{
+    {
       "rolecode": "ASSET_APPROVER",
       "actionid": 3080,
       "actioncode": "",
@@ -32852,109 +32852,193 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-	 {
-  "rolecode": "ASSET_APPROVER",
-  "actionid": 3083,
-  "actioncode": "",
-  "tenantId": "pg"
-},
-{
-  "rolecode": "ASSET_APPROVER", 
-  "actionid": 3084,
-  "actioncode": "",
-  "tenantId": "pg"
-},
-{
-  "rolecode": "ASSET_APPROVER",
-  "actionid": 3085,
-  "actioncode": "",
-  "tenantId": "pg"
-},
-{
-  "rolecode": "CITIZEN",
-  "actionid": 3089,
-  "actioncode": "",
-  "tenantId": "pg"
-},
-	  {
-  "rolecode": "MT_CEMP",
-  "actionid": 3090,
-  "actioncode": "",
-  "tenantId": "pg"
-},
-{
-  "rolecode": "MT_CEMP",
-  "actionid": 3091,
-  "actioncode": "",
-  "tenantId": "pg"
-},
-{
-  "rolecode": "MT_CEMP",
-  "actionid": 3092,
-  "actioncode": "",
-  "tenantId": "pg"
-},
-	  {
-  "rolecode": "TP_CEMP",
-  "actionid": 3093,
-  "actioncode": "",
-  "tenantId": "pg"
-},
-{
-  "rolecode": "TP_CEMP",
-  "actionid": 3094,
-  "actioncode": "",
-  "tenantId": "pg"
-},
-{
-  "rolecode": "TP_CEMP",
-  "actionid": 3095,
-  "actioncode": "",
-  "tenantId": "pg"
-},
-	  {
-  "rolecode": "WT_CEMP",
-  "actionid": 3096,
-  "actioncode": "",
-  "tenantId": "pg"
-},
-{
-  "rolecode": "WT_CEMP",
-  "actionid": 3097,
-  "actioncode": "",
-  "tenantId": "pg"
-},
-{
-  "rolecode": "WT_CEMP",
-  "actionid": 3098,
-  "actioncode": "",
-  "tenantId": "pg"
-},
-{
-  "rolecode": "ASSET_APPROVER",
-  "actionid": 3099,
-  "actioncode": "",
-  "tenantId": "pg"
-},
-{
-  "rolecode": "ASSET_APPROVER",
-  "actionid": 3100,
-  "actioncode": "",
-  "tenantId": "pg"
-},
-{
-  "rolecode": "ASSET_APPROVER",
-  "actionid": 3101,
-  "actioncode": "",
-  "tenantId": "pg"
-},
-{
-  "rolecode": "CITIZEN",
-  "actionid": 3102,
-  "actioncode": "",
-  "tenantId": "pg"
-},
-{
+    {
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 3083,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "ASSET_APPROVER",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3089,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "MT_CEMP",
+      "actionid": 3090,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "MT_CEMP",
+      "actionid": 3091,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "MT_CEMP",
+      "actionid": 3092,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "TP_CEMP",
+      "actionid": 3093,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "TP_CEMP",
+      "actionid": 3094,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "TP_CEMP",
+      "actionid": 3095,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "WT_CEMP",
+      "actionid": 3096,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "WT_CEMP",
+      "actionid": 3097,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "WT_CEMP",
+      "actionid": 3098,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 3099,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "TL_APPROVER",
+      "actionid": 3099,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_CEMP",
+      "actionid": 3100,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_CEMP",
+      "actionid": 3101,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_APPROVER",
+      "actionid": 3101,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_CEMP",
+      "actionid": 3102,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_APPROVER",
+      "actionid": 3102,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_CEMP",
+      "actionid": 3103,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_APPROVER",
+      "actionid": 3103,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "CHB_CEMP",
+      "actionid": 3104,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_APPROVER",
+      "actionid": 3104,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3104,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3104,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3104,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "CHB_CEMP",
+      "actionid": 3105,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHB_APPROVER",
+      "actionid": 3105,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3106,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GIS_CEMP",
+      "actionid": 3106,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 4000,
       "actioncode": "",
@@ -36440,6 +36524,5 @@
       "actioncode": "",
       "tenantId": "pg"
     }
-
   ]
 }
