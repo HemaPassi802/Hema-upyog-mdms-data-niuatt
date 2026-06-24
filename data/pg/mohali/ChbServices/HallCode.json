@@ -19,8 +19,8 @@
             "venueCode": "Sector_54_Phase_2"
         },
         {
-            "communityHallId": "2",
-            "hallId": "2",
+            "venueId": "2",
+            "codeId": "2",
             "code": "Hall_Code-1",
             "capacity": "100",
             "timeSlot": [
@@ -35,8 +35,8 @@
             "venueCode": "Sector_55_Phase_1"
         },
         {
-            "communityHallId": "3",
-            "hallId": "3",
+            "venueId": "3",
+            "codeId": "3",
             "code": "Hall_Code-1",
             "capacity": "100",
             "timeSlot": [
@@ -51,8 +51,8 @@
             "venueCode": "Sector_59_Phase_5"
         },
         {
-            "communityHallId": "4",
-            "hallId": "4",
+            "venueId": "4",
+            "codeId": "4",
             "code": "Hall_Code-1",
             "capacity": "100",
             "timeSlot": [
@@ -67,8 +67,8 @@
             "venueCode": "Sector_61_Phase_7"
         },
         {
-            "communityHallId": "5",
-            "hallId": "5",
+            "venueId": "5",
+            "codeId": "5",
             "code": "Hall_Code-1",
             "capacity": "100",
             "timeSlot": [
@@ -83,8 +83,8 @@
             "venueCode": "Sector_65_Phase_11"
         },
         {
-            "communityHallId": "6",
-            "hallId": "6",
+            "venueId": "6",
+            "codeId": "6",
             "code": "Hall_Code-1",
             "capacity": "100",
             "timeSlot": [
@@ -99,8 +99,8 @@
             "venueCode": "Sector_69"
         },
         {
-            "communityHallId": "7",
-            "hallId": "7",
+            "venueId": "7",
+            "codeId": "7",
             "code": "Hall_Code-1",
             "capacity": "100",
             "timeSlot": [
@@ -115,9 +115,9 @@
             "venueCode": "Sector_70"
         },
         {
-            "communityHallId": "8",
-            "hallId": "8",
-            "code": "Hall_Code-1",
+            "venueId": "8",
+            "codeId": "8",
+            "code": "Hall Code-1",
             "capacity": "100",
             "timeSlot": [
                 {
