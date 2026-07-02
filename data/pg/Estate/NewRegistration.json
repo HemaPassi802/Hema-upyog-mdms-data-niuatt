@@ -142,9 +142,8 @@
                 "dataSource": {
                   "type": "MDMS",
                   "moduleName": "egov-location",
-                  "moduleData": "TenantBoundary",
-                  "customiztionRequired": true,
-                  "dependsOn": "city"
+                  "masterName": "TenantBoundary",
+                  "customiztionRequired": true
                 }
               },
               "validation": {
@@ -289,7 +288,7 @@
                 "dataSource": {
                   "type": "MDMS",
                   "moduleName": "ASSET",
-                  "moduleData": "assetParentCategory",
+                  "masterName": "assetParentCategory",
                   "customiztionRequired": false
                 }
               },
