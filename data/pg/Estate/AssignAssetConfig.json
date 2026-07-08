@@ -28,19 +28,18 @@
           "header": "EST_ASSIGN_PROPERTY_DETAILS"
         },
         "form": [
+           {
+            "order": 0,
+            "key": "EST_ASSET_NUMBER",
+            "field": { "code": "EST_ASSET_NUMBER", "name": "assetNo", "type": "text" },
+            "validation": { "required": true, "disabled": true, "readOnly": true }
+          },
           {
             "order": 1,
             "key": "EST_ASSET_REFERENCE_NUMBER",
             "field": { "code": "EST_ASSET_REFERENCE_NUMBER", "name": "assetRefNumber", "type": "text" },
             "validation": { "disabled": true, "readOnly": true }
           },
-          {
-            "order": 0,
-            "key": "EST_ASSET_NUMBER",
-            "field": { "code": "EST_ASSET_NUMBER", "name": "assetNo", "type": "text" },
-            "validation": { "required": true, "disabled": true, "readOnly": true }
-          },
-
           {
             "order": 2,
             "key": "EST_BUILDING_NAME",
