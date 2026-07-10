@@ -341,15 +341,18 @@
               "options": [
                 {
                   "code": "MONTHLY",
-                  "i18nKey": "EST_BILLING_CYCLE_MONTHLY"
+                  "i18nKey": "EST_BILLING_CYCLE_MONTHLY",
+                  "totalMonths": 1
                 },
                 {
                   "code": "QUARTERLY",
-                  "i18nKey": "EST_BILLING_CYCLE_QUARTERLY"
+                  "i18nKey": "EST_BILLING_CYCLE_QUARTERLY",
+                  "totalMonths": 3
                 },
                 {
                   "code": "YEARLY",
-                  "i18nKey": "EST_BILLING_CYCLE_YEARLY"
+                  "i18nKey": "EST_BILLING_CYCLE_YEARLY",
+                  "totalMonths": 12
                 }
               ],
               "validation": {
