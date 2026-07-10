@@ -807,6 +807,10 @@
             "idname": "estate.management.asset.id"
         },
         {
+            "format": "PG-RF-[cy:yyyy-MM-dd]-[SEQ_EG_PG_REFUND]",
+            "idname": "egov.idgen.refund.id"
+        },
+        {
             "format": "NDC-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_EG_NDC_ID]",
             "idname": "ndc.applicationid"
         },
@@ -821,6 +825,10 @@
         {
             "format": "NDC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_NDC_RECEIPT_ID_[TENANT_ID]]",
             "idname": "ndc.receipt.id"
+        },
+        {
+            "format": "GB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "garbage.application.num"
         }
     ]
 }
