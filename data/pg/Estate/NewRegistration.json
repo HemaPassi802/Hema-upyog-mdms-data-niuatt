@@ -287,8 +287,8 @@
                 "type": "dropdown",
                 "dataSource": {
                   "type": "MDMS",
-                  "moduleName": "ASSET",
-                  "masterName": "assetParentCategory",
+                  "moduleName": "Estate",
+                  "masterName": "AssetType",
                   "customiztionRequired": false
                 }
               },
@@ -302,27 +302,6 @@
           "actionButton": {
             "text": {
               "create": "SAVE_&_NEXT",
-              "edit": "UPDATE"
-            },
-            "variant": "contained",
-            "color": "primary"
-          }
-        },
-        {
-          "key": "reviewDetails",
-          "route": "reviewDetails",
-          "component": "ReviewDetails",
-          "nextStep": null,
-          "isPreview": true,
-          "withoutLabel": false,
-          "type": "component",
-          "hideInEmployee": false,
-          "isMandatory": false,
-          "sectionHeading": "EST_REVIEW_DETAILS",
-          "form": [],
-          "actionButton": {
-            "text": {
-              "create": "SUBMIT",
               "edit": "UPDATE"
             },
             "variant": "contained",
