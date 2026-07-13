@@ -155,16 +155,6 @@
                   "masterName": "AllotmentType"
                 }
               },
-              "options": [
-                {
-                  "code": "RENT",
-                  "i18nKey": "EST_ALLOTMENT_TYPE_RENT"
-                },
-                {
-                  "code": "LEASE",
-                  "i18nKey": "EST_ALLOTMENT_TYPE_LEASE"
-                }
-              ],
               "validation": {
                 "required": true,
                 "disabled": false,
@@ -336,22 +326,13 @@
                 "code": "EST_BILLING_CYCLE",
                 "name": "billingCycle",
                 "type": "dropdown",
-                "placeholder": "EST_SELECT_BILLING_CYCLE"
-              },
-              "options": [
-                {
-                  "code": "MONTHLY",
-                  "i18nKey": "EST_BILLING_CYCLE_MONTHLY"
-                },
-                {
-                  "code": "QUARTERLY",
-                  "i18nKey": "EST_BILLING_CYCLE_QUARTERLY"
-                },
-                {
-                  "code": "YEARLY",
-                  "i18nKey": "EST_BILLING_CYCLE_YEARLY"
+                "placeholder": "EST_SELECT_BILLING_CYCLE",
+                "dataSource": {
+                  "type": "MDMS",
+                  "moduleName": "Estate",
+                  "masterName": "AllotmentBillingCycle"
                 }
-              ],
+              },
               "validation": {
                 "required": true,
                 "disabled": false,
