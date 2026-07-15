@@ -1,11 +1,11 @@
 {
     "tenantId": "pg",
-    "moduleName": "GC",
+    "moduleName": "Garbage",
     "Penalty": [
         {
          "id":"1",
          "applicationType": "GARBAGE_COLLECTION",
-         "serviceType": "NEW_BOOKING",
+         "serviceType": "GC_RENTAL_FEE",
          "feeType": "GC_PENALTY_FEE",
          "rate": 5,
          "taxApplicable": false,

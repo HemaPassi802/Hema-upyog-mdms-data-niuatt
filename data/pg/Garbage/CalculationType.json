@@ -1,13 +1,13 @@
 {
   "tenantId": "pg",
-  "moduleName": "GC",
+  "moduleName": "Garbage",
   "CalculationType": [
     {
       "id":"1",
       "applicationType": "garbage-service",
       "categories": "RESIDENTIAL",
-      "serviceType": "GC_BOOKING_FEE",
-      "feeType": "BOOKING_FEES",
+      "serviceType": "GC_RENTAL_FEE",
+      "feeType": "RESIDENTIAL_RENTAL_FEE",
       "amount": 2000,
       "taxApplicable": true
     },
@@ -15,8 +15,8 @@
       "id":"2",
       "applicationType": "garbage-service",
       "categories": "COMMERCIAL",
-      "serviceType": "GC_BOOKING_FEE",
-      "feeType": "BOOKING_FEES",
+      "serviceType": "GC_RENTAL_FEE",
+      "feeType": "COMMERCIAL_RENTAL_FEE",
       "amount": 3000,
       "taxApplicable": true
     },
@@ -24,8 +24,8 @@
       "id":"3",
       "applicationType": "garbage-service",
       "categories": "INDUSTRIES",
-      "serviceType": "GC_BOOKING_FEE",
-      "feeType": "BOOKING_FEES",
+      "serviceType": "GC_RENTAL_FEE",
+      "feeType": "INDUSTRIAL_RENTAL_FEE",
       "amount": 4000,
       "taxApplicable": true
     },
@@ -33,8 +33,8 @@
       "id":"4",
       "applicationType": "garbage-service",
       "categories": "HOSPITALS_AND_HEALTH_CARE",
-      "serviceType": "GC_BOOKING_FEE",
-      "feeType": "BOOKING_FEES",
+      "serviceType": "GC_RENTAL_FEE",
+      "feeType": "HOSPITALS_AND_HEALTH_CARE_RENTAL_FEE",
       "amount": 5000,
       "taxApplicable": true
     },
@@ -42,8 +42,8 @@
       "id":"5",
       "applicationType": "garbage-service",
       "categories": "GOVT_ESTABLISHMENTS",
-      "serviceType": "GC_BOOKING_FEE",
-      "feeType": "BOOKING_FEES",
+      "serviceType": "GC_RENTAL_FEE",
+      "feeType": "GOVT_ESTABLISHMENTS_RENTAL_FEE",
       "amount": 6000,
       "taxApplicable": true
     },
@@ -51,8 +51,8 @@
       "id":"6",
       "applicationType": "garbage-service",
       "categories": "OTHERS",
-      "serviceType": "GC_BOOKING_FEE",
-      "feeType": "BOOKING_FEES",
+      "serviceType": "GC_RENTAL_FEE",
+      "feeType": "OTHERS_RENTAL_FEE",
       "amount": 7000,
       "taxApplicable": true
     }

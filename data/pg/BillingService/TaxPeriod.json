@@ -1999,9 +1999,9 @@
       "fromDate": 1554057000000,
       "toDate": 1869676199000,
       "periodCycle": "ANNUAL",
-      "service": "gc-service",
-      "code": "GC10YRS2024",
-      "financialYear": "2025-35"
+      "service": "garbage-service",
+      "code": "GC_RENTAL_FEE",
+      "financialYear": "2026-27"
     }
 
   ]

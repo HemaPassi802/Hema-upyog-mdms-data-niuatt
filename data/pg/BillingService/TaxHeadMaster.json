@@ -6012,7 +6012,7 @@
       "category": "FEE",
       "service": "garbage-service",
       "name": "Garbage Fee",
-      "code": "GC_BOOKING_FEE",
+      "code": "GC_RENTAL_FEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "1",
@@ -6021,8 +6021,8 @@
     {
       "category": "REBATE",
       "service": "garbage-service",
-      "name": "Rebate",
-      "code": "GC_BOOKING_FEE",
+      "name": "Garbage Rebate",
+      "code": "GC_RENTAL_FEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "2",
@@ -6031,7 +6031,7 @@
     {
       "category": "PENALTY",
       "service": "garbage-service",
-      "name": "Penalty",
+      "name": "Garbage Penalty",
       "code": "GC_PENALTY_FEE",
       "isDebit": false,
       "isActualDemand": false,
