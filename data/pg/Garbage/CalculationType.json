@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg",
+  "moduleName": "GC",
+  "CalculationType": [
+    {
+      "id":"1",
+      "applicationType": "garbage-service",
+      "categories": "RESIDENTIAL",
+      "serviceType": "GC_BOOKING_FEE",
+      "feeType": "BOOKING_FEES",
+      "amount": 2000,
+      "taxApplicable": true
+    },
+    {
+      "id":"2",
+      "applicationType": "garbage-service",
+      "categories": "COMMERCIAL",
+      "serviceType": "GC_BOOKING_FEE",
+      "feeType": "BOOKING_FEES",
+      "amount": 3000,
+      "taxApplicable": true
+    },
+    {
+      "id":"3",
+      "applicationType": "garbage-service",
+      "categories": "INDUSTRIES",
+      "serviceType": "GC_BOOKING_FEE",
+      "feeType": "BOOKING_FEES",
+      "amount": 4000,
+      "taxApplicable": true
+    },
+    {
+      "id":"4",
+      "applicationType": "garbage-service",
+      "categories": "HOSPITALS_AND_HEALTH_CARE",
+      "serviceType": "GC_BOOKING_FEE",
+      "feeType": "BOOKING_FEES",
+      "amount": 5000,
+      "taxApplicable": true
+    },
+    {
+      "id":"5",
+      "applicationType": "garbage-service",
+      "categories": "GOVT_ESTABLISHMENTS",
+      "serviceType": "GC_BOOKING_FEE",
+      "feeType": "BOOKING_FEES",
+      "amount": 6000,
+      "taxApplicable": true
+    },
+    {
+      "id":"6",
+      "applicationType": "garbage-service",
+      "categories": "OTHERS",
+      "serviceType": "GC_BOOKING_FEE",
+      "feeType": "BOOKING_FEES",
+      "amount": 7000,
+      "taxApplicable": true
+    }
+  ]
+}
