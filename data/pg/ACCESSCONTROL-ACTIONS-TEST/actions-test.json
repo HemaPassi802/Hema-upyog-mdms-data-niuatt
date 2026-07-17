@@ -30190,9 +30190,7 @@
     "rightIcon": "",
     "queryParams": "",
     "sidebar": "digit-ui-links",
-    "sidebarURL": "/digit-ui/citizen/firenoc-home",
-    "link": "/digit-ui/citizen/firenoc/new-application",
-    "i18nKey": "New Application"
+    "sidebarURL": "/digit-ui/citizen/firenoc-home"
   }
   ]
 }
