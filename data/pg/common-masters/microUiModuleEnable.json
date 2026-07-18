@@ -5,6 +5,10 @@
         {
             "code": "Finance",
             "enabled": true
+        },
+        {
+            "code": "FireNoc",
+            "enabled": true
         }
     ]
 }
