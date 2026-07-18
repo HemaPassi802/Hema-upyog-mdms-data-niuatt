@@ -30173,6 +30173,24 @@
     "serviceCode": "requester-services-dx",
     "code": "null",
     "path": ""
+  },
+  {
+    "id": 4709,
+    "name": "NEW_APPLICATION",
+    "url": "digit-ui-card",
+    "displayName": "New Application",
+    "orderNumber": 1,
+    "parentModule": "FIRENOC",
+    "enabled": true,
+    "serviceCode": "FIRENOC",
+    "code": "null",
+    "path": "",
+    "navigationURL": "/digit-ui/citizen/firenoc/new-application",
+    "leftIcon": "CHBIcon",
+    "rightIcon": "",
+    "queryParams": "",
+    "sidebar": "digit-ui-links",
+    "sidebarURL": "/digit-ui/citizen/firenoc-home"
   }
   ]
 }
