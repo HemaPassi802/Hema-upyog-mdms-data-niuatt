@@ -5,17 +5,23 @@
     {
       "code": "MONTHLY",
       "i18nKey": "EST_BILLING_CYCLE_MONTHLY",
-      "multiplier":1
+      "rentLabelKey": "EST_MONTHLY_RENT_IN_INR",
+      "multiplier": 1,
+      "active": true
     },
     {
       "code": "QUARTERLY",
       "i18nKey": "EST_BILLING_CYCLE_QUARTERLY",
-      "multiplier":3
+      "rentLabelKey": "EST_QUARTERLY_RENT_IN_INR",
+      "multiplier": 3,
+      "active": true
     },
     {
       "code": "YEARLY",
       "i18nKey": "EST_BILLING_CYCLE_YEARLY",
-      "multiplier":12
+      "rentLabelKey": "EST_YEARLY_RENT_IN_INR",
+      "multiplier": 12,
+      "active": true
     }
   ]
 }

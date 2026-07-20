@@ -1,0 +1,20 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Estate",
+  "CheckPageConfig": [
+    {
+      "flow": "registration",
+      "stepKey": "newRegistration",
+      "logTag": "EST_CREATE",
+      "summaryHeaderCode": "EST_REGISTRATION_SUMMARY",
+      "defaultSectionHeaderCode": "EST_ASSET_DETAILS"
+    },
+    {
+      "flow": "allotment",
+      "stepKey": "Allotments",
+      "logTag": "EST_ALLOT",
+      "summaryHeaderCode": "EST_ASSIGN_ASSETS_SUMMARY",
+      "defaultSectionHeaderCode": "EST_ASSET_DETAILS"
+    }
+  ]
+}
