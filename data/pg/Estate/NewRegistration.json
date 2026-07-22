@@ -364,26 +364,6 @@
             },
             {
               "order": 11,
-              "key": "EST_ASSET_REFERENCE_NUMBER",
-              "field": {
-                "code": "EST_ASSET_REFERENCE_NUMBER",
-                "name": "assetRef",
-                "placeholder": "EST_ENTER_ASSET_REFERENCE_NUMBER",
-                "type": "text"
-              },
-              "visibleWhen": {
-                "field": "showRegistrationDetails",
-                "equals": "YES"
-              },
-              "validation": {
-                "maxLength": 50,
-                "required": false,
-                "disabled": false,
-                "readOnly": false
-              }
-            },
-            {
-              "order": 12,
               "key": "EST_ASSET_TYPE",
               "field": {
                 "code": "EST_ASSET_TYPE",
