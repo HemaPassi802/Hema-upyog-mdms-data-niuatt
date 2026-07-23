@@ -1,7 +1,7 @@
 {
   "tenantId": "pg",
   "moduleName": "Estate",
-  "Config": [
+  "NewRegistration": [
     {
       "head": "EST_COMMON_NEW_REGISTRATION",
       "body": [

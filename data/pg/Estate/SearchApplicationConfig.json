@@ -1,7 +1,7 @@
 {
   "tenantId": "pg",
   "moduleName": "Estate",
-  "searchApplicationConfig": [
+  "SearchApplicationConfig": [
     {
       "header": "EST_SEARCH_APPLICATIONS",
       "sessionKey": "EST_ASSIGN_ASSETS",
